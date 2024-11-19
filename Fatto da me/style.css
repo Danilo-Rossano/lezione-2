@@ -1,0 +1,17 @@
+.sfondo{
+background-repeat: no-repeat;
+background-image: url(./immagini/sfondomenu.avif);
+
+}
+
+.pizze{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+td{
+    border: 1px solid black;
+}
+table{
+    border-color: black;
+}
